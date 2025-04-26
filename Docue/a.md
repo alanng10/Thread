@@ -51,3 +51,5 @@ Thread has park kind arch marry.
 Thread has park kind arch land.
 
 Thread is did.
+
+Thread has major.
