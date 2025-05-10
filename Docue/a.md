@@ -50,6 +50,10 @@ Thread has park kind arch marry.
 
 Thread has park kind arch land.
 
+Thread has park mark.
+
+Thread has park cross.
+
 Thread is did.
 
 Thread has major.
